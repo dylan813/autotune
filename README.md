@@ -1,4 +1,5 @@
-# Autotune Project
+# Autotune Project 
+## For Fun
 
 Custom real-time autotune-style vocal plugin. Long-term target: VST3 loadable in Ableton Live (Intro / Standard / Suite).
 
