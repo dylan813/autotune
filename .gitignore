@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Audio outputs from experiments (keep generators, drop generated files)
+python_prototype/test_signals/audio/*.wav
+!python_prototype/test_signals/audio/.gitkeep
+
+# JUCE
+juce_plugin/Builds/**/build/
+juce_plugin/Builds/**/x64/
+juce_plugin/Builds/**/Release/
+juce_plugin/Builds/**/Debug/
+juce_plugin/JuceLibraryCode/
+*.vst3/
+*.component/
+
+# Models
+*.pt
+*.onnx
+*.engine

@@ -1,0 +1,1 @@
+C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\Autotune_rc_lib.dir\Release\Autotune_rc_lib.lib

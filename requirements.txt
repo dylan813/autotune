@@ -1,0 +1,24 @@
+# Core audio + numerics
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12
+librosa>=0.10
+
+# Pitch detection
+# pYIN comes via librosa.pyin
+torchcrepe>=0.0.22
+torch>=2.0          # GPU build recommended for the RTX 2060
+
+# RMVPE is added in Phase 2; install instructions live in
+#   python_prototype/f0_extractors/rmvpe_detector.py
+
+# Pitch shifting (Phase 4)
+pyrubberband>=0.3.0 # requires the `rubberband-cli` system binary
+# soundtouch wrappers are optional; evaluated alongside Rubber Band
+
+# Real-time prototype (Phase 5)
+sounddevice>=0.4.6
+
+# Eval + plotting
+matplotlib>=3.7
+tqdm>=4.65

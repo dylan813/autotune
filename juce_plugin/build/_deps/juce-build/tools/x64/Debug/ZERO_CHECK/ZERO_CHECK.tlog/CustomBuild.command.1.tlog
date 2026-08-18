@@ -1,0 +1,10 @@
+^C:\USERS\DYLAN\REPOSITORY\AUTO\AUTOTUNE-PROJECT\JUCE_PLUGIN\BUILD\_DEPS\JUCE-BUILD\TOOLS\CMAKEFILES\206EED5592A4E3FA18D6A363FB40E512\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-src -BC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/tools --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/tools/JUCE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

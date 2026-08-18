@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1391f7d83cf1f620af496821435331c8\rubberband-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\4cbdbcb8147047af644971ac8d03e011\rubberband-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\1d45c6d82cb7919575003eee5b02fc23\rubberband-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\rubberband-subbuild\CMakeFiles\rubberband-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{48484D40-AD38-369F-B050-6940B7869D5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

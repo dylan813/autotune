@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/rubberband-populate"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1d45c6d82cb7919575003eee5b02fc23/rubberband-populate.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/4cbdbcb8147047af644971ac8d03e011/rubberband-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/CMakeFiles/1391f7d83cf1f620af496821435331c8/rubberband-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rubberband-populate"
+		],
+		"name" : "rubberband-populate"
+	}
+}

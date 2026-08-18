@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\678f404e0409db0221209f124c438267\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{379F3F01-927C-3123-A870-DAB5DF96F8E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

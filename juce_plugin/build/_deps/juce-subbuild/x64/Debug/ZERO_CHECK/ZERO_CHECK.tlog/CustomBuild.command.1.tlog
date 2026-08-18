@@ -1,0 +1,10 @@
+^C:\USERS\DYLAN\REPOSITORY\AUTO\AUTOTUNE-PROJECT\JUCE_PLUGIN\BUILD\_DEPS\JUCE-SUBBUILD\CMAKEFILES\678F404E0409DB0221209F124C438267\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-subbuild -BC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-subbuild/juce-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,20 @@
+^C:\USERS\DYLAN\REPOSITORY\AUTO\AUTOTUNE-PROJECT\JUCE_PLUGIN\BUILD\CMAKEFILES\BAAFAB71B2E7FF67227C7F9A49E5268D\JUCEHEADER.H.RULE
+setlocal
+_deps\juce-build\tools\extras\Build\juceaide\juceaide_artefacts\Debug\juceaide.exe header C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/Autotune_artefacts/JuceLibraryCode/Release/Defs.txt C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/Autotune_artefacts/JuceLibraryCode/JuceHeader.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DYLAN\REPOSITORY\AUTO\AUTOTUNE-PROJECT\JUCE_PLUGIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dylan/repository/auto/autotune-project/juce_plugin -BC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build --check-stamp-file C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

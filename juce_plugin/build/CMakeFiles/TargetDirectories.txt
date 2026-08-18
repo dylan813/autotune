@@ -1,0 +1,15 @@
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/rubberband_single.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/Autotune.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/Autotune_All.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/Autotune_Standalone.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/Autotune_rc_lib.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/Autotune_VST3.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/juce_vst3_helper.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/INSTALL.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/CMakeFiles/INSTALL.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/modules/CMakeFiles/INSTALL.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/extras/Build/CMakeFiles/INSTALL.dir
+C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/juce-build/extras/Build/juceaide/CMakeFiles/INSTALL.dir

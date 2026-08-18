@@ -1,0 +1,10 @@
+^C:\USERS\DYLAN\REPOSITORY\AUTO\AUTOTUNE-PROJECT\JUCE_PLUGIN\BUILD\_DEPS\RUBBERBAND-SUBBUILD\CMAKEFILES\1D45C6D82CB7919575003EEE5B02FC23\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild -BC:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dylan/repository/auto/autotune-project/juce_plugin/build/_deps/rubberband-subbuild/rubberband-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

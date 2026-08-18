@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\0d7d4a62f9e15594538665903b886d66\juce-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\6451127f7cc480883d8acf29e2e6325e\juce-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\678f404e0409db0221209f124c438267\juce-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\_deps\juce-subbuild\CMakeFiles\juce-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{379F3F01-927C-3123-A870-DAB5DF96F8E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

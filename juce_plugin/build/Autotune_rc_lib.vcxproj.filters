@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\CMakeFiles\baafab71b2e7ff67227c7f9a49e5268d\Autotune_resources.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\dylan\repository\auto\autotune-project\juce_plugin\build\Autotune_artefacts\JuceLibraryCode\Autotune_resources.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D505E979-18B7-3FC2-95B3-E51934C5E927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7EC7FC59-ECA5-3A71-BBCE-D4D902B86EF5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
